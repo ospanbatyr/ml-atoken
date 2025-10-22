@@ -50,7 +50,7 @@ pip install -e "."
 pip install flash-attn --no-build-isolation
 ```
 
-If you want to use 3D, install [diff-gaussian-rasterization](https://github.com/autonomousvision/mip-splatting) and run the install_gs.sh script to set up Gaussian Splatting dependencies:
+Install [diff-gaussian-rasterization](https://github.com/autonomousvision/mip-splatting) and run the install_gs.sh script to set up Gaussian Splatting dependencies:
 
 ```bash
 git clone https://github.com/autonomousvision/mip-splatting.git
